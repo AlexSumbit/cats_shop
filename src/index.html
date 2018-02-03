@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <link href="https://fonts.googleapis.com/css?family=Quicksand:400,700" rel="stylesheet">
+        <link rel="stylesheet" href="style/main.css">
+        <title>Test.Weblium</title>
+    </head>
+    <body>
+        <header class="header">
+            <div class="container">
+                <nav class="nav">
+                    <img src="svg/sale.svg" alt="logo" class="logo nav__item">
+                    <a href="#" class="nav__item nav__item--link">Home</a>
+                    <a href="#" class="nav__item nav__item--link">Products</a>
+                </nav>
+                <div class="cart">
+                    <img src="svg/shopping-cart.svg" alt="cart" class="cart__img">
+                    <span class="cart__count">1</span>
+                </div>
+            </div>
+        </header>
+        
+        <main class="main">
+            <div class="container">
+                <div class="grid grid--4 js-grid">
+                    
+                </div>
+            </div>
+        </main>
+
+        <script src="script/script.js"></script>
+
+        <template class="js-product-tpl">
+            <div class="product">
+                <img src="" alt="cat" class="product__img">
+                <div class="product__info">
+                    <span class="product__name">Carl</span>
+                    <span class="product__price">0.001</span>
+                </div>
+            </div>
+        </template>
+
+        <template class="js-type">
+            <span class="product__category red"><span class="icon-fist"></span></span>
+        </template>
+
+        <template class="js-type">
+            <span class="product__category green"><span class="icon-energy"></span></span>
+        </template>
+
+        <template class="js-type">
+            <span class="product__category blue"><span class="icon-magic"></span></span>
+        </template>
+    </body>
+</html>

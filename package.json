@@ -1,0 +1,30 @@
+{
+  "name": "mogo-nov-team-1",
+  "version": "1.0.0",
+  "description": "Mate academy Mogo template. Team",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.21.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-iconfont": "^9.0.2",
+    "gulp-iconfont-css": "^2.1.0",
+    "gulp-nunjucks": "^3.0.0",
+    "gulp-sass": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MateAcademy-FE-July/mogo-nov-team-1.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MateAcademy-FE-July/mogo-nov-team-1/issues"
+  },
+  "homepage": "https://github.com/MateAcademy-FE-July/mogo-nov-team-1#readme"
+}

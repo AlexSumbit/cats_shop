@@ -1,0 +1,88 @@
+{
+    "cats": [
+        {
+            "name": "John",
+            "price": 0.001,
+            "is_availible": true,
+            "type": 0,
+            "img": "https://storage.googleapis.com/ck-kitty-image/0x06012c8cf97bead5deae237070f9587f8e7a266d/495747.svg"
+        },
+        {
+            "name": "Java",
+            "price": 0.007,
+            "is_availible": true,
+            "type": 1,
+            "img": "https://storage.googleapis.com/ck-kitty-image/0x06012c8cf97bead5deae237070f9587f8e7a266d/495733.svg"
+        },
+        {
+            "name": "Kotlin",
+            "price": 0.023,
+            "is_availible": true,
+            "type": 2,
+            "img": "https://storage.googleapis.com/ck-kitty-image/0x06012c8cf97bead5deae237070f9587f8e7a266d/495727.svg"
+        },
+        {
+            "name": "Jimmy",
+            "price": 0.033,
+            "is_availible": true,
+            "type": 0,
+            "img": "https://storage.googleapis.com/ck-kitty-image/0x06012c8cf97bead5deae237070f9587f8e7a266d/495720.svg"
+        },
+        {
+            "name": "Stick",
+            "price": 0.002,
+            "is_availible": true,
+            "type": 2,
+            "img": "https://storage.googleapis.com/ck-kitty-image/0x06012c8cf97bead5deae237070f9587f8e7a266d/495714.svg"
+        },
+        {
+            "name": "Vally",
+            "price": 0.001,
+            "is_availible": true,
+            "type": 0,
+            "img": "https://storage.googleapis.com/ck-kitty-image/0x06012c8cf97bead5deae237070f9587f8e7a266d/495707.svg"
+        },
+        {
+            "name": "Carl",
+            "price": 0.091,
+            "is_availible": true,
+            "type": 1,
+            "img": "https://storage.googleapis.com/ck-kitty-image/0x06012c8cf97bead5deae237070f9587f8e7a266d/495706.svg"
+        },
+        {
+            "name": "Jira",
+            "price": 0.009,
+            "is_availible": true,
+            "type": 1,
+            "img": "https://storage.googleapis.com/ck-kitty-image/0x06012c8cf97bead5deae237070f9587f8e7a266d/495705.svg"
+        },
+        {
+            "name": "Marry",
+            "price": 0.011,
+            "is_availible": true,
+            "type": 0,
+            "img": "https://storage.googleapis.com/ck-kitty-image/0x06012c8cf97bead5deae237070f9587f8e7a266d/495700.svg"
+        },
+        {
+            "name": "Steve",
+            "price": 0.051,
+            "is_availible": true,
+            "type": 0,
+            "img": "https://storage.googleapis.com/ck-kitty-image/0x06012c8cf97bead5deae237070f9587f8e7a266d/495653.svg"
+        },
+        {
+            "name": "Sam",
+            "price": 0.011,
+            "is_availible": true,
+            "type": 2,
+            "img": "https://storage.googleapis.com/ck-kitty-image/0x06012c8cf97bead5deae237070f9587f8e7a266d/495743.svg"
+        },
+        {
+            "name": "Kitty",
+            "price": 0.024,
+            "is_availible": true,
+            "type": 1,
+            "img": "https://storage.googleapis.com/ck-kitty-image/0x06012c8cf97bead5deae237070f9587f8e7a266d/495746.svg"
+        }
+    ]
+}
